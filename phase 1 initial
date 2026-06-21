@@ -1,0 +1,31 @@
+Phase 1: Project Planning
+
+Project:
+Role-Based SaaS Billing Portal
+
+Technology Stack
+
+Frontend
+- React.js
+
+Backend
+- Node.js
+- Express.js
+
+Database
+- MongoDB
+
+Authentication
+- JWT
+
+Roles
+
+- Admin
+- Manager
+- Customer
+
+Create Git Repository
+
+Initial Commit
+
+git commit -m "Project initialized"
