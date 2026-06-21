@@ -1,0 +1,33 @@
+Backend Setup
+
+Install Packages
+
+npm init -y
+
+npm install express mongoose cors dotenv jsonwebtoken bcryptjs
+
+Create folders
+
+controllers
+
+models
+
+routes
+
+middleware
+
+Connect MongoDB Atlas
+
+Create APIs
+
+User Login
+
+User Registration
+
+Billing
+
+Invoices
+
+Commit
+
+git commit -m "Backend completed"
