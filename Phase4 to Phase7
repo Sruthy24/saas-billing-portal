@@ -1,0 +1,45 @@
+Phase 4
+
+Create Dashboard
+
+Admin Dashboard
+
+Customer Dashboard
+
+Manager Dashboard
+
+Phase 5
+
+Billing Module
+
+Generate Invoice
+
+View Bills
+
+Download Invoice
+
+Phase 6
+
+Role Management
+
+Admin
+
+Create Users
+
+Assign Roles
+
+Delete Users
+
+Phase 7
+
+Reports
+
+Monthly Revenue
+
+Total Customers
+
+Pending Payments
+
+Commit
+
+git commit -m "Billing portal features completed"
